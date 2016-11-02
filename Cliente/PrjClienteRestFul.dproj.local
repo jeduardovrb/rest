@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/23 22:04:15.000.188,=C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/26 20:34:58.000.767,=C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/26 20:47:17.000.134,=C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/26 20:52:30.000.616,=C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/12 21:24:16.000.127,=C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/12 21:58:50.000.719,=C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/16 01:15:24.000.540,=C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/16 01:17:29.000.268,C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.fmx=E:\Mini Curso RestFull\Cliente\uFrmPrincipal.fmx</Transaction>
+    <Transaction>2016/10/16 01:17:29.000.268,C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Mini Curso RestFull\Cliente\uFrmPrincipal.pas</Transaction>
+    <Transaction>2016/10/16 01:17:41.000.003,C:\Users\jorge\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Mini Curso RestFull\Cliente\PrjClienteRestFul.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
